@@ -10,8 +10,8 @@ Welcome to the "Pizza Sales Report" project, where we delve into the fascinating
 
 ## Screenshots
 
-![Screenshot 1](/pizza_sales1.png)
-![Screenshot 2](/pizza_sales2.png)
+![Screenshot 1](/pizza_sales2.png)
+![Screenshot 2](/pizza_sales1.png)
 
 
 ## Key Findings
