@@ -8,6 +8,12 @@
 
 Welcome to the "Pizza Sales Report" project, where we delve into the fascinating world of pizza sales. This data analysis project harnesses the power of SQL, PowerQuery, and PowerBI to uncover intriguing insights and trends in the pizza industry. Explore the data, one slice at a time!
 
+## Screenshots
+
+![Screenshot 1](/pizza_sales1.png)
+![Screenshot 2](/pizza_sales2.png)
+
+
 ## Key Findings
 
 ### DAYS
@@ -36,10 +42,6 @@ Welcome to the "Pizza Sales Report" project, where we delve into the fascinating
 
 - **Brie Carre Mystery:** On the flip side, the "Brie Carre Pizza" takes the least revenue and has the minimum total quantities and total orders. A mysterious underdog, perhaps?
 
-## Screenshots
-
-![Screenshot 1](/pizza_sales1.png)
-![Screenshot 2](/pizza_sales2.png)
 
 ## Usage
 
