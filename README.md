@@ -1,7 +1,7 @@
 # Pizza Sales Report
 
 <p align="center">
-  <img src="pizza_image.jpg" alt="Pizza Sales Report" width="400">
+  <img src="[pizza_image.jpg](https://www.businessinsider.in/_next/image?url=https%3A%2F%2Fstaticbiassets.in%2Fthumb%2Fmsid-78911679%2Cwidth-700%2Cresizemode-4%2Cimgsize-385534%2Fimg5f988ad469331a0011bc597d.jpg&w=1920&q=75)" alt="Pizza Sales Report" width="400">
 </p>
 
 ## Overview
