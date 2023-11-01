@@ -36,13 +36,10 @@ Welcome to the "Pizza Sales Report" project, where we delve into the fascinating
 
 - **Brie Carre Mystery:** On the flip side, the "Brie Carre Pizza" takes the least revenue and has the minimum total quantities and total orders. A mysterious underdog, perhaps?
 
-## Project Structure
+## Screenshots
 
-- `/data`: Store your raw and processed data files here.
-- `/scripts`: Contains SQL queries and PowerQuery scripts.
-- `/reports`: This is where your PowerBI reports and visualizations live.
-- `/screenshots`: Showcase project screenshots to provide a glimpse of your work.
-- `/docs`: Additional project documentation can be placed here.
+![Screenshot 1](/pizza_sales1.png)
+![Screenshot 2](/pizza_sales2.png)
 
 ## Usage
 
